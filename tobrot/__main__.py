@@ -82,7 +82,6 @@ botcmds = [
         (f'{BotCommands.ClearCommand}','🕹 Clear Thumbnail '),
         (f'{BotCommands.RenameCommand}','♻️ [Reply] Rename Telegram File'),
         (f'{BotCommands.StatusCommand}','🖲 Show Bot stats and concurrent Downloads'),
-        (f'{BotCommands.SpeedCommand}','📡 Get Current Server Speed of Your Bot'),
     ]
 
 if __name__ == "__main__":
