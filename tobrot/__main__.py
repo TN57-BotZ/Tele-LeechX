@@ -73,7 +73,7 @@ from tobrot.plugins.status_message_fn import (
 )
 
 botcmds = [
-        (f'{BotCommands.LeechCommand}','📨 [Reply] Leech Only Direct Link | Index Link ')
+        (f'{BotCommands.LeechCommand}','🗃️Leech As File Format')
         (f'{BotCommands.ExtractCommand}', '🔐 Unarchive items . .'),
         (f'{BotCommands.ArchiveCommand}','🗜 Archive as .tar.gz acrhive... '),
         (f'{BotCommands.YtdlCommand}','🧲 [Reply] YT-DL Links for Uploading...'),
