@@ -73,9 +73,7 @@ from tobrot.plugins.status_message_fn import (
 )
 
 botcmds = [
-        (f'{BotCommands.LeechCommand}','📨 [Reply] Leech Only Direct Link | Index Link '),
-        (f'{BotCommands.ToggleVidCommand}','🎥Upload as Video Format..'),
-        (f'{BotCommands.ToggleDocCommand}','🗃️ Upload as Document Format...'),
+        (f'{BotCommands.LeechCommand}','🎥 Upload As Stream '),
         (f'{BotCommands.ExtractCommand}', '🔐 Unarchive items . .'),
         (f'{BotCommands.ArchiveCommand}','🗜 Archive as .tar.gz acrhive... '),
         (f'{BotCommands.YtdlCommand}','🧲 [Reply] YT-DL Links for Uploading...'),
@@ -83,8 +81,7 @@ botcmds = [
         (f'{BotCommands.SaveCommand}','🖼 Save Thumbnail For Uploads'),
         (f'{BotCommands.ClearCommand}','🕹 Clear Thumbnail '),
         (f'{BotCommands.RenameCommand}','♻️ [Reply] Rename Telegram File'),
-        (f'{BotCommands.StatusCommand}','🖲 Show Bot stats and concurrent Downloads'),
-        (f'{BotCommands.SpeedCommand}','📡 Get Current Server Speed of Your Bot'),
+        (f'{BotCommands.StatusCommand}','🖲 Show Bot stats and concurrent Downloads')
     ]
 
 if __name__ == "__main__":
