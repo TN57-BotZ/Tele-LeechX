@@ -17,7 +17,7 @@
 # Demo Group
 <a href="https://t.me/FuZionXLeech"><img src="https://img.shields.io/badge/FuZion Leech Bot-2cb6e0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TN57-BotZ/Tele-LeechX/tree/Toggle)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TN57-BotZ/Tele-LeechX/tree/%40TN57_Leech5Bot)
 # Features Supported :-
 <details>
     <summary><b>Click Here For Description</b></summary>
