@@ -98,7 +98,7 @@ async def status_message_f(
                 #msg += f"\n<b>👤User :-</b> {umen} (<code>{file.message.from_user.id}</code>)"
                 #msg += f"\n<b>⚠️Warn :-</b> <code>/warn {file.message.from_user.id}</code>"
                 msg += f"\n{msgg}"
-                msg += f"\n<b>⛔️ Cancel :-</b> <code>/cancel@TN57_Leech1Bot {file.gid}</code>"
+                msg += f"\n<b>⛔️ Cancel :-</b> <code>/cancel@TN57_Leech5Bot {file.gid}</code>"
                 msg += "\n"
 
         hr, mi, se = up_time(time.time() - BOT_START_TIME)
