@@ -75,11 +75,8 @@ from tobrot.plugins.status_message_fn import (
 botcmds = [
         (f'{BotCommands.LeechCommand}','🎥 Upload As Stream '),
         (f'{BotCommands.ExtractCommand}', '🔐 Unarchive items . .'),
-        (f'{BotCommands.YtdlCommand}','🧲 [Reply] YT-DL Links for Uploading...'),
-        (f'{BotCommands.PytdlCommand}','🧧 [Reply] YT-DL Playlists Links for Uploading...'),
         (f'{BotCommands.SaveCommand}','🖼 Save Thumbnail For Uploads'),
         (f'{BotCommands.ClearCommand}','🕹 Clear Thumbnail '),
-        (f'{BotCommands.RenameCommand}','♻️ [Reply] Rename Telegram File'),
     ]
 
 if __name__ == "__main__":
