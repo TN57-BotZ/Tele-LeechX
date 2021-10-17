@@ -7,7 +7,7 @@ class _BotCommands:
         self.ToggleVidCommand = 'togglevid'
         self.SaveCommand = 'savethumb'
         self.ClearCommand = 'clearthumb'
-        self.RenameCommand = 'rename1'
+        self.RenameCommand = 'rename10'
         self.StatusCommand = 'status'
         self.SpeedCommand = 'speedtest'
         self.YtdlCommand = 'ytdl'
